@@ -5,7 +5,7 @@ That’s why I’m writing this article — to share the resources that helped m
 
 Note: This article won’t cover general software engineering interview rounds like DSA coding or specialized roles like Data Analyst, where the focus is on SQL or data-specific questions.
 
-The Four Types of Rounds:
+The Four Types of Rounds:- 
 
 📚 Machine Learning Breadth: This round tests your broad knowledge across various ML topics. I usually spend about 35% of my prep time here.
 🔍 Machine Learning Depth: This round requires about 25% of my prep time, focusing on specialized topics and detailed case studies.
@@ -15,32 +15,42 @@ The Four Types of Rounds:
 
 Note: This breakdown will vary depending on your experience level and background. Adapt your preparation strategy to best fit your needs.
 
-📚 Machine Learning Breadth
+📚 Machine Learning Breadth:-
+
 This round assesses an engineer’s understanding of ML fundamentals across various topics. It’s often a rapid-fire session where interviewers may jump between different topics or might ask general questions within an area.
 
 A common mistake is relying solely on online questionnaires. Interviewers often reframe questions, making it essential to understand concepts deeply. For example, I was once asked how to handle imbalanced classes in a user-click dataset (where one class, like user click, is much less common than the other class). I suggested “oversampling,” which can distort the dataset distribution and affect the model’s accuracy. Instead, with a large dataset, it’s better not to change the data distribution.
 
 Topics vary by company. For instance, self-driving car companies may ask computer vision fundamentals for junior or senior roles, while other companies might focus on general ML fundamentals.
 
-Fundamental Topics (All Levels)
+Fundamental Topics (All Levels):-
+
+
 Supervised Learning: Classification (Logistic Regression, SVMs, Decision Trees), Regression (Linear and Ridge regression)
+
 Unsupervised Learning: Clustering (k-means, hierarchical, DBSCAN), Dimensionality Reduction, Latent Semantic Analysis (LSA)
+
 Ensemble Methods: Random Forest (Bagging), Gradient Boosting Machines
+
 Deep Learning: Multi-layer Perceptron, CNNs
+
 Model Evaluation Metrics: Classification vs Regression evaluation metrics, Bias vs Variance Tradeoff
+
 Loss Functions: Different types of loss functions, Regularization, Overfitting vs Underfitting
+
 Feature Selection and Importance: Techniques to identify important features like Correlation analysis, recursive feature elimination, Lasso
+
 Statistics: P-values, r-square, regression analysis, Naive Bayes, distributions, maximum likelihood estimation, A/B testing
 
-💡Highly Recommended Resources
+💡Highly Recommended Resources:- 
 
 — Andrew Ng’s MachinSpecialized Topics (Senior/Specialized Roles)
-Time-Series and Sequential Data:
+Time-Series and Sequential Data:0
 
 RNNs, LSTMs, Seq2Seq models: Understanding architectures designed for handling time-dependent and sequential data.
 💡Resources: Good tutorials for RNNs and LSTMs and Seq2Seq model
 
-Natural Language Processing (NLP):
+Natural Language Processing (NLP):-
 
 Word Embeddings: Techniques like Word2Vec, GloVe.
 Attention Mechanisms and Transformer Models
@@ -54,7 +64,7 @@ LLM Fundamentals: Becoming increasingly more relevant.
 Computer Vision:
 
 Not an expert on CV. You can consider this course to start: Udacity Computer Vision Nanodegree.
-Reinforcement Learning [Rare]:
+Reinforcement Learning [Rare]:-
 
 Relevant for robotics company roles
 💡Resources: Reinforcement Learning Overview, Tutorial
